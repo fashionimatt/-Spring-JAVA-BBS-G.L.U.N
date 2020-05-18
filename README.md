@@ -48,7 +48,7 @@ G.L.U.N은 자신의 패션 사진을 자유롭게 올릴 수 있는 커뮤니�
 ## :computer: 화면 구성
 
 ##### 메인 페이지
-<img src="https://user-images.githubusercontent.com/56856085/82247139-dcf30880-9980-11ea-929e-9f2889715bee.png" width="650">
+<img src="https://user-images.githubusercontent.com/56856085/82247947-44f61e80-9982-11ea-831a-4357a187d117.png" width="650">
 
 ##### Men / Women 페이지
 <img src="https://user-images.githubusercontent.com/56856085/82247147-df556280-9980-11ea-846b-7423a4f8389f.png" width="650">

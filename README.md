@@ -5,7 +5,7 @@
 G.L.U.N은 자신의 패션 사진을 자유롭게 올릴 수 있는 커뮤니티 웹사이트 입니다.
 
 
-### :page_facing_up: 목차
+## :page_facing_up: 목차
 
 * 제작 동기
 * 개발 환경
@@ -14,14 +14,14 @@ G.L.U.N은 자신의 패션 사진을 자유롭게 올릴 수 있는 커뮤니�
 * Back-End
 
 
-### :speech_balloon: 제작동기
+## :speech_balloon: 제작동기
 
 친구와 함께 **네이버에서 패션 블로그를 운영한 경험**이 있습니다. 이 경험을 토대로 블로그 서비스를 통해 패션 관련 정보나 사진을 공유하는 것이 아니라, **내가 만든 웹사이트**에서 그런 것들이 이루어지면 좋겠다 하는 생각으로 제작하게 되었습니다.
 
 게시판은 어느 웹사이트에나 **필수적인 요소**입니다. 그런 게시판 제작을 반복적으로 연습하여 **기본기**를 다지고 싶었습니다.
 
 
-### :wrench: 개발환경
+## :wrench: 개발환경
 
 ##### Front-End
  * Bootstrap4
@@ -35,7 +35,7 @@ G.L.U.N은 자신의 패션 사진을 자유롭게 올릴 수 있는 커뮤니�
  * Tomcat 8.5
  * Maven4
  
-### :page_with_curl: 설계구조
+## :page_with_curl: 설계구조
 
 ##### 데이터베이스 모델링
 <img src="https://user-images.githubusercontent.com/56856085/82244954-0ca01180-997d-11ea-8c1a-fd9a96930e03.jpg" width="650">
@@ -46,4 +46,4 @@ G.L.U.N은 자신의 패션 사진을 자유롭게 올릴 수 있는 커뮤니�
  <img height="700" src="https://user-images.githubusercontent.com/56856085/82245447-eb8bf080-997d-11ea-8f6d-0faa6821dfab.jpg")>
 </div>
 
-### :computer: Front-End
+## :computer: Front-End

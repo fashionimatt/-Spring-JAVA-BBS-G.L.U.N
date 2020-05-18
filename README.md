@@ -22,11 +22,11 @@ G.L.U.N은 자신의 패션 사진을 자유롭게 올릴 수 있는 커뮤니�
 
 ## :wrench: 개발환경
 
-##### Front-End
+#### Front-End
  * Bootstrap4
  * jQuery3
 
-##### Back-End
+#### Back-End
  * Spring framework 5.2
  * JDK 1.8
  * Oracle 11g
@@ -47,20 +47,20 @@ G.L.U.N은 자신의 패션 사진을 자유롭게 올릴 수 있는 커뮤니�
 
 ## :computer: 화면 구성
 
-##### 메인 페이지
-<img src="https://user-images.githubusercontent.com/56856085/82247947-44f61e80-9982-11ea-831a-4357a187d117.png" width="650">
+#### 메인 페이지
+<img src="https://user-images.githubusercontent.com/56856085/82248224-bb931c00-9982-11ea-9010-bbe19cf97026.png" width="650">
 
-##### Men / Women 페이지
+#### Men / Women 페이지
 <img src="https://user-images.githubusercontent.com/56856085/82247147-df556280-9980-11ea-846b-7423a4f8389f.png" width="650">
 
-##### 게시글 상세 페이지
+#### 게시글 상세 페이지
 <img src="https://user-images.githubusercontent.com/56856085/82247155-e1b7bc80-9980-11ea-8ce4-6506d126a802.png" width="650">
 
-##### 로그인 페이지
+#### 로그인 페이지
 <img src="https://user-images.githubusercontent.com/56856085/82247138-dc5a7200-9980-11ea-91e8-6a5422f836a2.png" width="650">
 
-##### 회원가입 페이지
+#### 회원가입 페이지
 <img src="https://user-images.githubusercontent.com/56856085/82247134-dbc1db80-9980-11ea-8d6b-447c4570c530.png" width="650">
 
-##### 회원정보 수정 페이지
+#### 회원정보 수정 페이지
 <img src="https://user-images.githubusercontent.com/56856085/82247154-e1b7bc80-9980-11ea-95ae-ccf68ca36d3b.png" width="650">

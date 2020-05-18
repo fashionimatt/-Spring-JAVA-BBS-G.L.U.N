@@ -1,2 +1,9 @@
 # 사진 게시판 프로젝트 : G.L.U.N (Gentle, Luxurious, Utility, Neat)
-Spring fremework를 활용한 
+G.L.U.N은 자신의 패션 사진을 자유롭게 올릴 수 있는 커뮤니티 웹사이트 입니다.
+## 목차
+* 제작 동기
+* 개발 환경
+* 설계 구조
+* 작동 과정
+* Front-End
+* Back-End

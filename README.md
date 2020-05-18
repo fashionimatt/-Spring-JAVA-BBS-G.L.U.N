@@ -1,4 +1,4 @@
-# ![alt text](https://github.com/fashionimatt/Spring-JAVA-BBS-G.L.U.N/blob/master/WebContent/resources/image/glun_logo.png "GLUN logo")
+# :necktie: G.L.U.N
 
 > G.L.U.N = Gentle, Luxurious, Utility, Neat
 
@@ -23,3 +23,15 @@ G.L.U.N은 자신의 패션 사진을 자유롭게 올릴 수 있는 커뮤니�
 
 
 ### :wrench: 개발 환경
+
+##### Front-End
+ * Bootstrap4
+ * jQuery3
+
+##### Back-End
+ * Spring framework 5.2
+ * JDK 1.8
+ * Oracle 11g
+ * MyBatis 3.5
+ * Tomcat 8.5
+ * Maven4

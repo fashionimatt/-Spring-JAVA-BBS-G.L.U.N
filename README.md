@@ -1,4 +1,4 @@
-# 사진 게시판 프로젝트 : ![alt text](https://github.com/fashionimatt/Spring-JAVA-BBS-G.L.U.N/blob/master/WebContent/resources/image/glun_logo.png "GLUN logo")
+# ![alt text](https://github.com/fashionimatt/Spring-JAVA-BBS-G.L.U.N/blob/master/WebContent/resources/image/glun_logo.png "GLUN logo")
 
 > G.L.U.N = Gentle, Luxurious, Utility, Neat
 

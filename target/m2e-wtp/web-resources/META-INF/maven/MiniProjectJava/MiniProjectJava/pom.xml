@@ -36,7 +36,7 @@
 		<org.apache.commons-version>2.7.0</org.apache.commons-version>
 		<org.mybatis-version>3.5.4</org.mybatis-version>
 		<org.mybatis-spring-version>2.0.4</org.mybatis-spring-version>
-		<com.fasterxml.jackson.core-version>2.11.0</com.fasterxml.jackson.core-version>
+		<com.fasterxml.jackson.core-version>2.12.7.1</com.fasterxml.jackson.core-version>
 	</properties>
 	
 	<!-- 라이브러리 세팅 -->
